@@ -20,7 +20,7 @@ En nuestro proyecto hacemos uso de Bootstrap4 y Vuejs por lo tanto necesitamos c
 los assets de css y js incluidos en nuestro archivo webpack.mix.js mediante Laravel-Mix.
 Este archivo lo compilaremos mediante npm por lo tanto primero debemos instalar las dependencias por defecto del package.json:
 
-npm install
+- **npm install**
 
 Con esto tenemos habilitado el uso de los componentes de Vue,Bootstrap y Axios(para usar ajax)
 entre otras librerias. Ahora solo nos queda compilar nuestro archivo webpack.mix.js para que todo funcione correctamente:
